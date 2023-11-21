@@ -42,8 +42,6 @@ class game1{
 public class game2 {
     public static void main(String[] args){
         /*
-        create class game,which allows a user to play "gusess the number"
-        game once.game should have the following methods:
         1.constructor to generate the random number
         2.takeuserInput() to take auser input of number
         3.iscorrectNumber() to detect whether the number entered by the user is true
